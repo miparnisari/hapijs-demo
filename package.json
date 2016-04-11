@@ -1,0 +1,23 @@
+{
+  "name": "hapijstest",
+  "version": "1.0.0",
+  "description": "fiddling with authentication",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maria ines parnisari",
+  "license": "ISC",
+  "dependencies": {
+    "boom": "^3.1.2",
+    "glob": "^7.0.3",
+    "hapi": "^13.2.1",
+    "hapi-auth-jwt": "^4.0.0",
+    "joi": "^8.0.4",
+    "mongoose": "^4.4.7"
+  },
+  "devDependencies": {
+    "jscs": "^2.11.0",
+    "jshint": "^2.9.1"
+  }
+}
